@@ -1,5 +1,12 @@
 {
-  "updateDate": "17/06/2023",
-  "catagories": ["Pastel", "Gradient", "Quotes", "Pale", "Dark", "Light"],
-  "totalItems": 10
+  "updateDate": "18/06/2023",
+  "catagories": [
+    "Pastel",
+    "Gradient",
+    "Quotes",
+    "Reverie",
+    "Serene",
+    "City Scapes"
+  ],
+  "totalItems": 17
 }

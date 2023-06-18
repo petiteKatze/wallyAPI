@@ -2,11 +2,31 @@
   {
     "id": 0,
     "type": "Pastel",
-    "total": 78
+    "total": 16
   },
   {
     "id": 1,
-    "type": "Gradient",
-    "total": 34
+    "type": "Quotes",
+    "total": 14
+  },
+  {
+    "id": 2,
+    "type": "Serene",
+    "total": 5
+  },
+  {
+    "id": 3,
+    "type": "Reverie",
+    "total": 4
+  },
+  {
+    "id": 4,
+    "type": "City Scapes",
+    "total": 2
+  },
+  {
+    "id": 5,
+    "type": "Festivities",
+    "total": 2
   }
 ]
