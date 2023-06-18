@@ -9,13 +9,17 @@ const app = express();
 const PORT = 5001;
 
 app.use(bodyParser.json());
+//returns present state of wallpapers stored
 app.use("/prState", presentState);
+//returns catagory data
 app.use("/ctData", catagoriesData);
+//returns all wallpapers (costly operation)
 app.use("/all", getAll);
+//returns a particular catagory wallpaper ,  example -/catagory/city-scapes
 app.use("/catagory", catagory);
 
 app.get("/", (req, res) => {
-  res.send("Hello Home");
+  res.send("Wally API, v1.0.0");
 });
 
 app.listen(PORT, () =>

@@ -28,5 +28,15 @@
     "id": 5,
     "type": "Festivities",
     "total": 2
+  },
+  {
+    "id": 6,
+    "type": "Colors",
+    "total": 5
+  },
+  {
+    "id": 7,
+    "type": "Gradients",
+    "total": 5
   }
 ]

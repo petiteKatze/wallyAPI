@@ -320,19 +320,41 @@
   {
     "id": 16,
     "name": "Dancing Pigments",
-    "catagories": ["Gradients"],
-    "desc": "Sunflowers aren't meant to be picked, nurture them and see them grow",
+    "catagories": ["Gradients","Colors"],
+    "desc": "A playful bit of joy",
     "link": "https://img.playbook.com/-eFyTusBNvqsgb0wNxQ74LPe1gCW1YI-pN8k8HU9VaQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzI3NmE3OGU3/LWMwYjEtNDkwMC04/M2JjLWYxOWYxYmE4/MjJkZQ",
-    "variants": [
-      {
-        "feec45": "https://img.playbook.com/D3hX3HVJfBn3Huh4zXpW63wdDwOj3g2NI7Ip6r57P-Y/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzRlZmExMGEy/LTY2ZWItNGJhYS1h/MjliLTJkYzI3Mzlj/NDY3MQ"
-      },
-      {
-        "f114f5": "https://img.playbook.com/UoSgCZh42lhf5FgnvGUUoixFFwQ7RZnaVfiLkgGg_RQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzNmZGQ0NTE3/LTRiODktNDk0Mi05/NTU3LTg0NDRhYzIy/NzIxOA"
-      },
-      {
-        "9114f4": "https://img.playbook.com/Jnks3fPvZg0UfR6Dt1hd9hpzEuBzlPRGSMyFRX22WK8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzJjMDI4Y2M0/LWY2YWYtNDBjOC05/MTJlLTRjOGVhZjI3/MWExOQ"
-      }
-    ]
+    "variants": []
+  },
+  {
+    "id": 17,
+    "name": "Color Cascade",
+    "catagories": ["Gradients","Colors"],
+    "desc": "Some colors for you",
+    "link": "https://img.playbook.com/SUFxBEC8koGkmw8svK9LOAS6205kAgx4isvMFEs97r4/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzBkY2FiZWJi/LWQ2MTYtNGI1Ni1h/MzdiLTVmZWMyOWQz/ODBkNA",
+    "variants": []
+  },
+  {
+    "id": 18,
+    "name": "Ink reverie",
+    "catagories": ["Gradients","Colors"],
+    "desc": "Some melancholic colors, life is strange isn't it?",
+    "link": "https://img.playbook.com/HIh98-41Lzodw55c7AcrUvOPmdWnTip8QsbS65jPGfU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VlZGI4YjQ4/LWRiM2EtNDc4NC04/NDdhLTNkNmU0NjFm/NGU1MA",
+    "variants": []
+  },
+  {
+    "id": 19,
+    "name": "Hues of ecstatcy",
+    "catagories": ["Gradients","Colors"],
+    "desc": "Colors, ecstacy and more",
+    "link": "https://img.playbook.com/4Hi-WUMi5Ir0l4nDcIRHe4ADlLsOXVKUbx945YB9seE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzhmZWM0ZDgx/LWQ0NDgtNDhkMy04/YTAwLTNlNTc2N2Zi/ODUyZg",
+    "variants": []
+  },
+  {
+    "id": 20,
+    "name": "A little dream",
+    "catagories": ["Gradients","Colors"],
+    "desc": "Colors, ecstacy and more",
+    "link": "https://img.playbook.com/FCwwyVjBcFjbueFnB5-nVWVCqxID_o3sFMTMIRfbvoE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzZhMWZjY2Zm/LTcxM2MtNDNiZS1h/NDk3LTY4NjExOWRh/ZjM1NA",
+    "variants": []
   }
 ]

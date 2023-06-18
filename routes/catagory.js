@@ -8,6 +8,8 @@ router.get("/:catagory", (req, res) => {
   const moduleURL = import.meta.url;
   const filePath = fileURLToPath(moduleURL);
   const directoryPath = dirname(filePath);
+
+  //city scapes
   if (req.params.catagory == "city-scapes") {
     const jsonFilePath = path.join(
       directoryPath,
@@ -15,6 +17,7 @@ router.get("/:catagory", (req, res) => {
     );
     res.sendFile(jsonFilePath);
   }
+  //festivities
   if (req.params.catagory == "festivities") {
     const jsonFilePath = path.join(
       directoryPath,
@@ -22,6 +25,7 @@ router.get("/:catagory", (req, res) => {
     );
     res.sendFile(jsonFilePath);
   }
+  //pastel
   if (req.params.catagory == "pastel") {
     const jsonFilePath = path.join(
       directoryPath,
@@ -29,6 +33,7 @@ router.get("/:catagory", (req, res) => {
     );
     res.sendFile(jsonFilePath);
   }
+  //quotes
   if (req.params.catagory == "quotes") {
     const jsonFilePath = path.join(
       directoryPath,
@@ -36,6 +41,7 @@ router.get("/:catagory", (req, res) => {
     );
     res.sendFile(jsonFilePath);
   }
+  //reverie
   if (req.params.catagory == "reverie") {
     const jsonFilePath = path.join(
       directoryPath,
@@ -43,6 +49,23 @@ router.get("/:catagory", (req, res) => {
     );
     res.sendFile(jsonFilePath);
   }
+  //colors
+  if (req.params.catagory == "colors") {
+    const jsonFilePath = path.join(
+      directoryPath,
+      "../API/Catagory/colors.json"
+    );
+    res.sendFile(jsonFilePath);
+  }
+  //gradients
+  if (req.params.catagory == "gradients") {
+    const jsonFilePath = path.join(
+      directoryPath,
+      "../API/Catagory/gradients.json"
+    );
+    res.sendFile(jsonFilePath);
+  }
+  //srerene
   if (req.params.catagory == "serene") {
     const jsonFilePath = path.join(
       directoryPath,
@@ -50,6 +73,7 @@ router.get("/:catagory", (req, res) => {
     );
     res.sendFile(jsonFilePath);
   } else {
+    //anything else
     const jsonFilePath = path.join(directoryPath, "../API/all.json");
     res.sendFile(jsonFilePath);
   }
