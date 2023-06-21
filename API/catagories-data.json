@@ -2,41 +2,49 @@
   {
     "id": 0,
     "type": "Pastel",
-    "total": 29
+    "total": 29,
+    "image": "https://img.playbook.com/xdsm0v-STKnTTCXLb4OzkMePle_oypje4I3KYbxbp8s/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzc3YzUyYTll/LTkxZjktNDM2NS1i/MWFjLTQ0ZTIxN2Ix/NGQ2Nw"
   },
   {
     "id": 1,
     "type": "Quotes",
-    "total": 27
+    "total": 27,
+    "image": "https://img.playbook.com/dvKYYUP6PGsrAS9Vv_eqEjUX3zzFW3E_OYgQUax6AuI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2M0NTY0ZjMz/LTY1YWEtNDg3ZS1h/MDdhLTQ1MjllM2I3/MmJjOA"
   },
   {
     "id": 2,
     "type": "Serene",
-    "total": 5
+    "total": 5,
+    "image": "https://img.playbook.com/7Xa5gzwZNCeQvl7_qMiLHwyVe_PXYYTpfhP1r_BIm4E/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzI0ZmRkZjI4/LTU5NWMtNDAzMy04/M2E0LTA0MDBmN2U4/MDdhYg"
   },
   {
     "id": 3,
     "type": "Reverie",
-    "total": 4
+    "total": 4,
+    "image": "https://img.playbook.com/tJKLiRBG31DG7kDA5hn9hZH2PtRwRQyC4DQnDmHbHtM/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2I5YWZiMzA5/LWZjMzQtNGFiZS1h/YmZmLTFhMmQ1NDE0/N2NmMw"
   },
   {
     "id": 4,
     "type": "City Scapes",
-    "total": 2
+    "total": 2,
+    "image": "https://img.playbook.com/ljAbUYqVTssG6u0b2M8M0D9BWfoJjOa3pl4PyzpqGYA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2NlMjY3YTgz/LTE4ODUtNGJiYS04/MDQ1LWY0YTg4Zjdi/NTZmYQ"
   },
   {
     "id": 5,
     "type": "Festivities",
-    "total": 2
+    "total": 2,
+    "image": "https://img.playbook.com/N_J476SwPQuAtzgyvlz3hCbyuRIGuZtNY9YfC_sbjfo/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Q3OTgzMWE1/LTcwZjQtNDdjYi05/NmI5LTdhYTRkNmFi/NmUzNw"
   },
   {
     "id": 6,
     "type": "Colors",
-    "total": 5
+    "total": 5,
+    "image": "https://img.playbook.com/tADmWQdBy8jh-KFSd7EdWnDUN-IEUrBH4duhXI4_6uI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzdiZmU0MDg3/LTI4MWYtNDI4Yi1h/MTdlLTVmZDgwMTQx/MjYwMQ"
   },
   {
     "id": 7,
     "type": "Gradients",
-    "total": 5
+    "total": 5,
+    "image": "https://img.playbook.com/SkUoDGvFMSYf5r5E4lp0FXSMG1I5z98EM9moidnBjrE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzgxMGU1ZTVi/LTNiMWMtNGJiYi1h/ZDUxLTRiZDM0MmY4/YjU1Ng"
   }
 ]
