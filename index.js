@@ -18,6 +18,10 @@ app.use("/all", getAll);
 //returns a particular catagory wallpaper ,  example -/catagory/city-scapes
 app.use("/catagory", catagory);
 
+app.get("/version", (req, res) => {
+  res.send(100);
+});
+
 app.get("/", (req, res) => {
   res.send("Wally API, v1.0.0");
 });
