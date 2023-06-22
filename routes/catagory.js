@@ -16,57 +16,43 @@ router.get("/:catagory", (req, res) => {
       "../API/Catagory/city-scapes.json"
     );
     res.sendFile(jsonFilePath);
-  }
-  //festivities
-  if (req.params.catagory == "Festivities") {
+  } else if (req.params.catagory == "Festivities") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/festivities.json"
     );
     res.sendFile(jsonFilePath);
-  }
-  //pastel
-  if (req.params.catagory == "Pastel") {
+  } else if (req.params.catagory == "Pastel") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/pastel.json"
     );
     res.sendFile(jsonFilePath);
-  }
-  //quotes
-  if (req.params.catagory == "Quotes") {
+  } else if (req.params.catagory == "Quotes") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/quotes.json"
     );
     res.sendFile(jsonFilePath);
-  }
-  //reverie
-  if (req.params.catagory == "Reverie") {
+  } else if (req.params.catagory == "Reverie") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/reverie.json"
     );
     res.sendFile(jsonFilePath);
-  }
-  //colors
-  if (req.params.catagory == "Colors") {
+  } else if (req.params.catagory == "Colors") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/colors.json"
     );
     res.sendFile(jsonFilePath);
-  }
-  //gradients
-  if (req.params.catagory == "Gradients") {
+  } else if (req.params.catagory == "Gradients") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/gradients.json"
     );
     res.sendFile(jsonFilePath);
-  }
-  //srerene
-  if (req.params.catagory == "Serene") {
+  } else if (req.params.catagory == "Serene") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/serene.json"
