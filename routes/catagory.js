@@ -10,7 +10,7 @@ router.get("/:catagory", (req, res) => {
   const directoryPath = dirname(filePath);
 
   //city scapes
-  if (req.params.catagory == "city-scapes") {
+  if (req.params.catagory == "City Scapes") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/city-scapes.json"
@@ -18,7 +18,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //festivities
-  if (req.params.catagory == "festivities") {
+  if (req.params.catagory == "Festivities") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/festivities.json"
@@ -26,7 +26,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //pastel
-  if (req.params.catagory == "pastel") {
+  if (req.params.catagory == "Pastel") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/pastel.json"
@@ -34,7 +34,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //quotes
-  if (req.params.catagory == "quotes") {
+  if (req.params.catagory == "Quotes") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/quotes.json"
@@ -42,7 +42,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //reverie
-  if (req.params.catagory == "reverie") {
+  if (req.params.catagory == "Reverie") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/reverie.json"
@@ -50,7 +50,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //colors
-  if (req.params.catagory == "colors") {
+  if (req.params.catagory == "Colors") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/colors.json"
@@ -58,7 +58,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //gradients
-  if (req.params.catagory == "gradients") {
+  if (req.params.catagory == "Gadients") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/gradients.json"
@@ -66,7 +66,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //srerene
-  if (req.params.catagory == "serene") {
+  if (req.params.catagory == "Serene") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/serene.json"
