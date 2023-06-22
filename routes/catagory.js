@@ -58,7 +58,7 @@ router.get("/:catagory", (req, res) => {
     res.sendFile(jsonFilePath);
   }
   //gradients
-  if (req.params.catagory == "Gadients") {
+  if (req.params.catagory == "Gradients") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/gradients.json"
