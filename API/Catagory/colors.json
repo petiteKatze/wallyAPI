@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 16,
     "name": "Dancing Pigments",
     "catagories": ["Gradients", "Colors"],
     "desc": "A playful bit of joy",
@@ -8,7 +8,7 @@
     "variants": []
   },
   {
-    "id": 1,
+    "id": 17,
     "name": "Color Cascade",
     "catagories": ["Gradients", "Colors"],
     "desc": "Some colors for you",
@@ -16,7 +16,7 @@
     "variants": []
   },
   {
-    "id": 2,
+    "id": 18,
     "name": "Ink reverie",
     "catagories": ["Gradients", "Colors"],
     "desc": "Some melancholic colors, life is strange isn't it?",
@@ -24,7 +24,7 @@
     "variants": []
   },
   {
-    "id": 3,
+    "id": 19,
     "name": "Hues of ecstatcy",
     "catagories": ["Gradients", "Colors"],
     "desc": "Colors, ecstacy and more",
@@ -32,7 +32,7 @@
     "variants": []
   },
   {
-    "id": 4,
+    "id": 20,
     "name": "A little dream",
     "catagories": ["Gradients", "Colors"],
     "desc": "Colors, ecstacy and more",
