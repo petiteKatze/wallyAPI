@@ -1,13 +1,15 @@
 {
-  "version": 100,
-  "updateDate": "18/06/2023",
+  "version": 101,
+  "updateDate": "25/06/2023",
   "catagories": [
     "Pastel",
     "Gradient",
     "Quotes",
     "Reverie",
     "Serene",
-    "City Scapes"
+    "City Scapes",
+    "Tablet",
+    "Motivational"
   ],
-  "totalItems": 35
+  "totalItems": 44
 }
