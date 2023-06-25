@@ -58,7 +58,7 @@ router.get("/:catagory", (req, res) => {
       "../API/Catagory/serene.json"
     );
     res.sendFile(jsonFilePath);
-  } else if (req.params.catagory == "Tablet") {
+  } else if (req.params.catagory == "Tablet Walls") {
     const jsonFilePath = path.join(
       directoryPath,
       "../API/Catagory/tablet.json"
