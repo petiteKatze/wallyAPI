@@ -1,6 +1,6 @@
 {
-  "version": 102,
-  "updateDate": "25/06/2023",
+  "version": 103,
+  "updateDate": "30/06/2023",
   "catagories": [
     "Pastel",
     "Gradient",
@@ -9,7 +9,8 @@
     "Serene",
     "City Scapes",
     "Tablet",
-    "Motivational"
+    "Motivational",
+    "Amoled"
   ],
-  "totalItems": 48
+  "totalItems": 58
 }

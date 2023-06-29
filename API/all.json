@@ -966,5 +966,107 @@
         "75CB9D": "https://img.playbook.com/kMa695LrTSdNDtVbi_porG3vWEFKsWXVIek-Tt91NpM/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzUyNDZhNmI5/LTZjMWItNDg1My05/MWYwLWI4ZWExODRk/ZmU0OQ"
       }
     ]
+  },
+  {
+    "id": 48,
+    "name": "Wally light",
+    "catagories": ["Pastel"],
+    "desc": "Here's the wally wallpaper for you",
+    "link": "https://img.playbook.com/qG04t5B9sEqu6wYYxgf_5xdY-mS4Pkh_hCO2Tc-N-x8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzBhMzFiOTFl/LWVkYmMtNGJlNC05/OTBiLWFkMTIzMzYy/MTJiYw",
+    "variants": []
+  },
+  {
+    "id": 49,
+    "name": "Wally dark",
+    "catagories": ["Amoled"],
+    "desc": "Here's the wally wallpaper for you",
+    "link": "https://img.playbook.com/7R6G8XQuKfzbRpCTzUb5C5jZexkk4z1twMzPrtZRjAQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzdlY2U0ZThl/LThiY2ItNDJjYy1h/YmE3LTQyODFiMDcz/ZTU5Zg",
+    "variants": []
+  },
+  {
+    "id": 50,
+    "name": "A happy ending",
+    "catagories": ["Amoled", "Motivational"],
+    "desc": "After all things sometimes end the way we want them to be :)",
+    "link": "https://img.playbook.com/s6GnhORDLNgbuh3eQaY61Xp4nd5R_fqpWvskQu9V-u8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzQyZDU1MTVj/LTU4ZTMtNGZjYy1h/MjI4LWJjMGNmYjU3/MWE5ZQ",
+    "variants": []
+  },
+  {
+    "id": 51,
+    "name": "The Sun",
+    "catagories": ["Amoled", "Motivational"],
+    "desc": "And here's the sun for you",
+    "link": "https://img.playbook.com/G9Stg8-m7TI7ZlAQ5tssvxwkys6Nj9pD3z0Vg7pNCT8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzIxNDc2M2M3/LTcwZTctNGFjNC1h/NzYxLWU3MmQ1ZjBi/OTU2Yw",
+    "variants": []
+  },
+  {
+    "id": 52,
+    "name": "Love forever",
+    "catagories": ["Amoled", "Motivational"],
+    "desc": "They loved each other, ever and forever",
+    "link": "https://img.playbook.com/rf7DKaQ2Dp9ph1-R2yffsGia5vjfTOwdB9Y7UklMDFM/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2FlNTJjNWVh/LWYwODItNDNlOC1i/YTkxLWY3MWJkYjVk/Yjk2MA",
+    "variants": []
+  },
+  {
+    "id": 53,
+    "name": "Flowers for you",
+    "catagories": ["Amoled", "Motivational"],
+    "desc": "I thought I'll get some flowers for you",
+    "link": "https://img.playbook.com/4Pv8EnGJVx0I4TvAwC4ycWTzBEMoFMost0fOhA5prSA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzZhNmM1YzEy/LTA4MzItNGNkMy1i/YTE2LTU0MzU0Y2Ez/MWE3NQ",
+    "variants": []
+  },
+  {
+    "id": 54,
+    "name": "Peace",
+    "catagories": ["Amoled", "Motivational"],
+    "desc": "Peace is something we all want I guess?",
+    "link": "https://img.playbook.com/sSfuXiBW07-T6Up4Tb5hP_LaQmOvp6NFusDoCCS3mUs/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzQxODk2ZWU3/LTRkNzctNGRhOS1h/YjcwLTdiNjYyZTUy/NTBjZg",
+    "variants": []
+  },
+  {
+    "id": 55,
+    "name": "Parralel lines",
+    "catagories": ["Amoled", "Motivational"],
+    "desc": "They never meet but follow each other forever",
+    "link": "https://img.playbook.com/43QHyBxKIFVgjtogdfKz7bsX0nh7NH7Rdm6ThFhV3RU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzBkZDMzZDcx/LTBiY2QtNDI4MS1h/N2RjLTk1OWM4MTZk/MzA3NA",
+    "variants": []
+  },
+  {
+    "id": 56,
+    "name": "All love",
+    "catagories": ["Amoled", "Motivational"],
+    "desc": "Then I thought I'll get some love for ya :)",
+    "link": "https://img.playbook.com/ya3y8fFe8EkZQFkBBmvFZ-AoPi4QPhfyNy1nOzBXwFc/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2ZhYTdmNmVm/LTAyYjctNGE5My05/ZjZmLTllMzQ4Nzdk/MjkwNA",
+    "variants": []
+  },
+  {
+    "id": 57,
+    "name": "Another reverie",
+    "catagories": ["Reverie", "Colors"],
+    "desc": "Then we find the afternoon reverie, in everywhere",
+    "link": "https://img.playbook.com/kmsk63HbshnqvCilTnBs1rBx8aLlnlC3L7w2rYQwJjQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM1NTlhNmUy/LWY1Y2UtNGM4NC1h/ZDE5LWJiNTY2NThk/ZDI5Yw",
+    "variants": [
+      {
+        "EF3FC9": "https://img.playbook.com/kmsk63HbshnqvCilTnBs1rBx8aLlnlC3L7w2rYQwJjQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM1NTlhNmUy/LWY1Y2UtNGM4NC1h/ZDE5LWJiNTY2NThk/ZDI5Yw"
+      },
+      {
+        "EFE83F": "https://img.playbook.com/Uscvcux_aGBVV2FkTG69SbfcvAAzZOa8NeqvP-qwqHI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VlYmYxNTIx/LWM5Y2MtNDRhNS1h/MTM4LTQyNGVlMGQz/ZjZmMw"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Another reverie",
+    "catagories": ["Reverie", "Colors"],
+    "desc": "Then we find the afternoon reverie, in everywhere",
+    "link": "https://img.playbook.com/Uscvcux_aGBVV2FkTG69SbfcvAAzZOa8NeqvP-qwqHI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VlYmYxNTIx/LWM5Y2MtNDRhNS1h/MTM4LTQyNGVlMGQz/ZjZmMw",
+    "variants": [
+      {
+        "EFE83F": "https://img.playbook.com/Uscvcux_aGBVV2FkTG69SbfcvAAzZOa8NeqvP-qwqHI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VlYmYxNTIx/LWM5Y2MtNDRhNS1h/MTM4LTQyNGVlMGQz/ZjZmMw"
+      },
+      {
+        "EF3FC9": "https://img.playbook.com/kmsk63HbshnqvCilTnBs1rBx8aLlnlC3L7w2rYQwJjQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM1NTlhNmUy/LWY1Y2UtNGM4NC1h/ZDE5LWJiNTY2NThk/ZDI5Yw"
+      }
+    ]
   }
 ]

@@ -70,6 +70,12 @@ router.get("/:catagory", (req, res) => {
       "../API/Catagory/motivational.json"
     );
     res.sendFile(jsonFilePath);
+  } else if (req.params.catagory == "Amoled") {
+    const jsonFilePath = path.join(
+      directoryPath,
+      "../API/Catagory/amoled.json"
+    );
+    res.sendFile(jsonFilePath);
   } else {
     //anything else
     const jsonFilePath = path.join(directoryPath, "../API/all.json");

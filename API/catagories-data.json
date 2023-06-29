@@ -20,7 +20,7 @@
   {
     "id": 3,
     "type": "Reverie",
-    "total": 4,
+    "total": 5,
     "image": "https://img.playbook.com/GjoLhMDUNxymehTP77YLDYBaeXZRUY6AFNxoNVJCLB8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzdlNjRkZTYy/LTgxNzgtNDI3OS1h/NGEyLTgzOTMzMGI3/NGJlNw"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": 6,
     "type": "Colors",
-    "total": 11,
+    "total": 12,
     "image": "https://img.playbook.com/n2lQ3LF1FZxNcUeVKPyyWvCFYoySrImupj0R92WzTKA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzBhMjhiNGYz/LWE0M2EtNGU3Yi05/YWYzLTJhNDE4ODhl/NjEzZQ"
   },
   {
@@ -50,7 +50,7 @@
   {
     "id": 8,
     "type": "Motivational",
-    "total": 10,
+    "total": 17,
     "image": "https://img.playbook.com/xl6OQRbFDUA_hsNI6_I8vxVU6G-lgGzafk1u2PviIno/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzllNDJkODc0/LTBiNWEtNDFiYy04/ZmM2LTM1OWVkMGJk/NjVjZQ"
   },
   {
@@ -58,5 +58,11 @@
     "type": "Tablet Walls",
     "total": 4,
     "image": "https://img.playbook.com/b4JXiIDVhKOmTAchIA4o6cAwiCem0Kt-qBYu-BnVSXQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2NhMTg2YTQ5/LTI0ZDItNDRhMC04/OTk1LTg2M2VlZTE3/MWZiOQ"
+  },
+  {
+    "id": 7,
+    "type": "Amoled",
+    "total": 4,
+    "image": "https://img.playbook.com/PyC2N5yF6ZeN9FYuQyG84BryGJrfm74OzJajnder4RU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzlhODYxYmI2/LTljZmItNGUzZS04/NGRmLTU0Mjc4M2M5/MjFkYg"
   }
 ]
