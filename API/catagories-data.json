@@ -1,66 +1,72 @@
 [
   {
     "id": 0,
+    "type": "All",
+    "total": 58,
+    "image": "https://img.playbook.com/stIZuObAUyAdyqSmSXbXV7TJ4O9m7NFx1FDf-ZL5T_Q/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM5ZmZkZTQ3/LTA1N2UtNDcyMy05/NTkzLTI0MTY3Zjg3/MzgxMQ"
+  },
+  {
+    "id": 1,
     "type": "Pastel",
     "total": 40,
     "image": "https://img.playbook.com/hGVptlRY4gu90Egij-Ek4RkDDHi09iNuSHx-jQiga9g/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2M2NDBhYTU4/LTQ1MDQtNDQ5ZS04/NjU5LTMxYzcyODhl/MzdjMw"
   },
   {
-    "id": 1,
+    "id": 2,
     "type": "Quotes",
     "total": 34,
     "image": "https://img.playbook.com/dvKYYUP6PGsrAS9Vv_eqEjUX3zzFW3E_OYgQUax6AuI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2M0NTY0ZjMz/LTY1YWEtNDg3ZS1h/MDdhLTQ1MjllM2I3/MmJjOA"
   },
   {
-    "id": 2,
+    "id": 3,
     "type": "Serene",
     "total": 5,
     "image": "https://img.playbook.com/NpTOfGIx-yn3F7bK8qijjwASs9ZTsywlm5eVYVR_X6A/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2ExZWQ4MzBk/LTRkYTItNDhjNi1h/M2UwLTMyOWVjNDU5/NWNjNw"
   },
   {
-    "id": 3,
+    "id": 4,
     "type": "Reverie",
     "total": 5,
     "image": "https://img.playbook.com/GjoLhMDUNxymehTP77YLDYBaeXZRUY6AFNxoNVJCLB8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzdlNjRkZTYy/LTgxNzgtNDI3OS1h/NGEyLTgzOTMzMGI3/NGJlNw"
   },
   {
-    "id": 4,
+    "id": 5,
     "type": "City Scapes",
     "total": 2,
     "image": "https://img.playbook.com/ZnwphkxO0iFMeG33v0s2WGtinoJ-udxdePrlAgtA328/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzliMWEyN2E0/LTIzMmYtNDhjYi1i/MjQ2LWUzNWJiNDYy/YTk3Ng"
   },
   {
-    "id": 5,
+    "id": 6,
     "type": "Festivities",
     "total": 2,
     "image": "https://img.playbook.com/p4IG4mLE5v_GO2Ys-E5g_5juFrBVHJY-nm6b2SLIZOI/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzRmMjNiNGVm/LWMxODAtNDEwOS1h/YTU1LTUzN2E0MjVi/OTU5Yg"
   },
   {
-    "id": 6,
+    "id": 7,
     "type": "Colors",
     "total": 12,
     "image": "https://img.playbook.com/n2lQ3LF1FZxNcUeVKPyyWvCFYoySrImupj0R92WzTKA/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzBhMjhiNGYz/LWE0M2EtNGU3Yi05/YWYzLTJhNDE4ODhl/NjEzZQ"
   },
   {
-    "id": 7,
+    "id": 8,
     "type": "Gradients",
     "total": 5,
     "image": "https://img.playbook.com/SkUoDGvFMSYf5r5E4lp0FXSMG1I5z98EM9moidnBjrE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzgxMGU1ZTVi/LTNiMWMtNGJiYi1h/ZDUxLTRiZDM0MmY4/YjU1Ng"
   },
   {
-    "id": 8,
+    "id": 9,
     "type": "Motivational",
     "total": 17,
     "image": "https://img.playbook.com/xl6OQRbFDUA_hsNI6_I8vxVU6G-lgGzafk1u2PviIno/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzllNDJkODc0/LTBiNWEtNDFiYy04/ZmM2LTM1OWVkMGJk/NjVjZQ"
   },
   {
-    "id": 9,
+    "id": 10,
     "type": "Tablet Walls",
     "total": 4,
     "image": "https://img.playbook.com/b4JXiIDVhKOmTAchIA4o6cAwiCem0Kt-qBYu-BnVSXQ/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2NhMTg2YTQ5/LTI0ZDItNDRhMC04/OTk1LTg2M2VlZTE3/MWZiOQ"
   },
   {
-    "id": 7,
+    "id": 11,
     "type": "Amoled",
     "total": 4,
     "image": "https://img.playbook.com/PyC2N5yF6ZeN9FYuQyG84BryGJrfm74OzJajnder4RU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzlhODYxYmI2/LTljZmItNGUzZS04/NGRmLTU0Mjc4M2M5/MjFkYg"

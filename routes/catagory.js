@@ -22,6 +22,9 @@ router.get("/:catagory", (req, res) => {
       "../API/Catagory/festivities.json"
     );
     res.sendFile(jsonFilePath);
+  } else if (req.params.catagory == "All") {
+    const jsonFilePath = path.join(directoryPath, "../API/Catagory/all.json");
+    res.sendFile(jsonFilePath);
   } else if (req.params.catagory == "Pastel") {
     const jsonFilePath = path.join(
       directoryPath,
