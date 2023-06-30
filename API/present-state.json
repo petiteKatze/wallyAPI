@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "updateDate": "30/06/2023",
   "catagories": [
     "Pastel",
@@ -10,7 +10,8 @@
     "City Scapes",
     "Tablet",
     "Motivational",
-    "Amoled"
+    "Amoled",
+    "All"
   ],
   "totalItems": 58
 }
