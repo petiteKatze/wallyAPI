@@ -19,7 +19,7 @@ app.use("/all", getAll);
 app.use("/catagory", catagory);
 
 app.get("/version", (req, res) => {
-  res.send("106");
+  res.send("107");
 });
 
 app.get("/", (req, res) => {
