@@ -1,6 +1,6 @@
 {
-  "version": 105,
-  "updateDate": "30/06/2023",
+  "version": 106,
+  "updateDate": "28/07/2023",
   "catagories": [
     "Pastel",
     "Gradient",
@@ -13,5 +13,5 @@
     "Amoled",
     "All"
   ],
-  "totalItems": 60
+  "totalItems": 62
 }
