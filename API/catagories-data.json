@@ -2,13 +2,13 @@
   {
     "id": 0,
     "type": "All",
-    "total": 62,
+    "total": 75,
     "image": "https://img.playbook.com/stIZuObAUyAdyqSmSXbXV7TJ4O9m7NFx1FDf-ZL5T_Q/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzM5ZmZkZTQ3/LTA1N2UtNDcyMy05/NTkzLTI0MTY3Zjg3/MzgxMQ"
   },
   {
     "id": 1,
     "type": "Pastel",
-    "total": 44,
+    "total": 55,
     "image": "https://img.playbook.com/hGVptlRY4gu90Egij-Ek4RkDDHi09iNuSHx-jQiga9g/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2M2NDBhYTU4/LTQ1MDQtNDQ5ZS04/NjU5LTMxYzcyODhl/MzdjMw"
   },
   {
@@ -19,10 +19,11 @@
   },
   {
     "id": 3,
-    "type": "Serene",
-    "total": 5,
-    "image": "https://img.playbook.com/NpTOfGIx-yn3F7bK8qijjwASs9ZTsywlm5eVYVR_X6A/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2ExZWQ4MzBk/LTRkYTItNDhjNi1h/M2UwLTMyOWVjNDU5/NWNjNw"
+    "type": "Cats",
+    "total": 7,
+    "image": "https://img.playbook.com/pGOEvmHJdopBXTwCgUFVw-Sm5gBHr9NKXl-L37iGg3w/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2VmMDY2YTZl/LTRhYTItNGU2My1h/ZTY1LTkwMTFlNzM0/ZGM0MQ"
   },
+ 
   {
     "id": 4,
     "type": "Reverie",
@@ -70,5 +71,29 @@
     "type": "Amoled",
     "total": 10,
     "image": "https://img.playbook.com/PyC2N5yF6ZeN9FYuQyG84BryGJrfm74OzJajnder4RU/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzlhODYxYmI2/LTljZmItNGUzZS04/NGRmLTU0Mjc4M2M5/MjFkYg"
+  },
+  {
+    "id": 12,
+    "type": "Animals",
+    "total": 12,
+    "image": "https://img.playbook.com/Hj6zBYVZ2FByCyd8AdGd4qg0jwli2Pvo3P7u1zDhyck/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2JhZGViNmJj/LTEzODctNGFhZi1i/NTU5LWFlNjFhMDQ4/ZTcxMA"
+  },
+  {
+    "id": 13,
+    "type": "Serene",
+    "total": 5,
+    "image": "https://img.playbook.com/NpTOfGIx-yn3F7bK8qijjwASs9ZTsywlm5eVYVR_X6A/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2ExZWQ4MzBk/LTRkYTItNDhjNi1h/M2UwLTMyOWVjNDU5/NWNjNw"
+  },
+  {
+    "id": 14,
+    "type": "Dogs",
+    "total": 2,
+    "image": "https://img.playbook.com/E3y85piJQSVEBTCETQOkSlN7IQE2eR2lwJ9AXbto4rc/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzljNjEwNzhh/LTFkMWMtNDY2ZC1h/NWFmLWIyYWYxNzdl/MTY2Mw"
+  },
+  {
+    "id": 15,
+    "type": "Panda",
+    "total": 2,
+    "image": "https://img.playbook.com/B1tDlJGeBZFwGb-IOD7vBpLhLhj1hhg5ZFZcvJ12g8U/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzliNTllM2Zj/LTUzMmItNGJlMi04/NTU4LWYwZDI2MGM1/MzdiMw"
   }
 ]

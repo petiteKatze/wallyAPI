@@ -79,6 +79,30 @@ router.get("/:catagory", (req, res) => {
       "../API/Catagory/amoled.json"
     );
     res.sendFile(jsonFilePath);
+  }else if (req.params.catagory == "Dogs") {
+    const jsonFilePath = path.join(
+      directoryPath,
+      "../API/Catagory/dogs.json"
+    );
+    res.sendFile(jsonFilePath);
+  }else if (req.params.catagory == "Cats") {
+    const jsonFilePath = path.join(
+      directoryPath,
+      "../API/Catagory/cats.json"
+    );
+    res.sendFile(jsonFilePath);
+  }else if (req.params.catagory == "Animals") {
+    const jsonFilePath = path.join(
+      directoryPath,
+      "../API/Catagory/animals.json"
+    );
+    res.sendFile(jsonFilePath);
+  }else if (req.params.catagory == "Panda") {
+    const jsonFilePath = path.join(
+      directoryPath,
+      "../API/Catagory/panda.json"
+    );
+    res.sendFile(jsonFilePath);
   } else {
     //anything else
     const jsonFilePath = path.join(directoryPath, "../API/all.json");

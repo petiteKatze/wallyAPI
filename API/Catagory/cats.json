@@ -1,0 +1,72 @@
+[
+    {
+        "id": 64,
+        "name": "meow meow",
+        "catagories": ["Animals","Pastel","Cats"],
+        "desc": "Some meow meow for the catto people",
+        "link": "https://img.playbook.com/QpsoMot2RNe3aoq2DbTiQmsryqjKhqsTSmuL4uRTnO0/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2U2N2RlZjI2/LWEzMzQtNDNiNS04/ZTA1LWU2Njc0ODQ5/Nzk0Mg",
+        "variants": [
+          {
+            "C2DFCF": "https://img.playbook.com/QpsoMot2RNe3aoq2DbTiQmsryqjKhqsTSmuL4uRTnO0/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2U2N2RlZjI2/LWEzMzQtNDNiNS04/ZTA1LWU2Njc0ODQ5/Nzk0Mg"
+          },
+          {
+            "EFEC9E": "https://img.playbook.com/UGb0tROhXoJe3DoA6LbNQK2GkQMhgPf5VKYDZauGZas/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzIzMzU3ZTFj/LTcwZGYtNDc4OC05/MjhlLWZlOTVmNzNi/ZWFiYg"
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Smol Catto",
+        "catagories": ["Animals","Pastel","Cats"],
+        "desc": "Then here is this panda for ya, wanting to say a hello!",
+        "link": "https://img.playbook.com/LZnCUY_lUxK6gkmK9pOhJULwLcfZ0Z45QBJ6MmmGSBk/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzBhYTE4ZWNl/LWFmNWUtNGU1Ny1i/MzFmLTE2OGM0MjAz/NjMwNw",
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 67,
+        "name": "Rizzy meow",
+        "catagories": ["Animals","Pastel","Cats"],
+        "desc": "This catto has its own rizz",
+        "link": "https://img.playbook.com/0PDRFOulxwObbry6EZiKxijE5PNRfsYQePRXQSXr9u8/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzAwNTk2YmFi/LWY3NTctNGFkMC1h/YjliLTQxZGZkOTI2/NmIzMA",
+        "variants": [ 
+        ]
+      },
+      {
+        "id": 68,
+        "name": "A serious meow",
+        "catagories": ["Animals","Pastel","Cats"],
+        "desc": "Ahh this guy seems pretty serious, stay cautious guys 🙃",
+        "link": "https://img.playbook.com/sh1Ufj9yj6DWfTsHChmnJHJnd--9KcB1J-nzwUluJBg/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzA3NzFlMDk4/LWFlMWEtNGVjNi1h/ZDhlLTJiYzc4NDRm/MDQ3OA",
+        "variants": [ 
+        ]
+      },
+      {
+        "id": 69,
+        "name": "smart meow",
+        "catagories": ["Animals","Pastel","Cats"],
+        "desc": "Hey she wants to say something",
+        "link": "https://img.playbook.com/M_xYQoNW8vyp4jjwNxSAgsbChV12eNGjEqSlTfJ5NNE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2YwNDA1YzU5/LTA1MjctNGU1ZC1i/N2UzLTY0MjA2Mjcz/ZDQ5Mg",
+        "variants": [ 
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Smol Catto",
+        "catagories": ["Animals","Pastel","Cats"],
+        "desc": "Bro just spawned",
+        "link": "https://img.playbook.com/JM3bqtsGolaN5bNsMGtLjVPJIh5GPsto45Yd0xbw2yc/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzI4ZTMwNmZk/LWQxMTktNGFmNi1h/ZWRjLWM0YTBkZjQ5/MzA1Mw",
+        "variants": [ 
+        ]
+      },
+      {
+        "id": 72,
+        "name": "Alien Catto",
+        "catagories": ["Animals","Pastel","Cats"],
+        "desc": "what are his intentions 🤔",
+        "link": "https://img.playbook.com/paZNbOJiWQJA73D3cV7id4Y5YfSfbkNk5kqJ4kZr_rE/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljLzdmYjNjZTY5/LWEzZjQtNDE1Yi1h/M2ZmLWViOTU0ZjVm/YmIxZg",
+        "variants": [ 
+        ]
+      }
+]

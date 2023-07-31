@@ -1,6 +1,6 @@
 {
-  "version": 107,
-  "updateDate": "28/07/2023",
+  "version": 108,
+  "updateDate": "31/07/2023",
   "catagories": [
     "Pastel",
     "Gradient",
@@ -11,7 +11,11 @@
     "Tablet",
     "Motivational",
     "Amoled",
-    "All"
+    "All",
+    "Cats",
+    "Animals",
+    "Dogs",
+    "Panda"
   ],
   "totalItems": 63
 }
